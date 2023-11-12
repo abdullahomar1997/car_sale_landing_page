@@ -7,6 +7,7 @@ const SiteTitle = styled(RouterLink)`
   font-size: 3rem;
   font-weight: bolder;
 `;
+
 const Container = styled.div`
     background-color: white;
 `;
