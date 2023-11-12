@@ -6,6 +6,7 @@ const ContactContainer = styled.div`
   justify-content: center;
   align-items: center;
   height: 70vh;
+  solid
 `;
 
 const ContactInfo = styled.div`

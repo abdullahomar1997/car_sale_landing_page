@@ -3,9 +3,9 @@ import styled from 'styled-components';
 
 const SiteTitle = styled(RouterLink)`
   text-decoration: none;
-  color: black;
+  color: white;
   font-size: 3rem;
-  font-weight: bolder;
+  font-weight: 500;
 `;
 
 const Container = styled.div`
@@ -15,6 +15,8 @@ const TitleContainer = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #4C86A8;
+    
 `;
 
 const NavLink = styled(RouterLink)`
